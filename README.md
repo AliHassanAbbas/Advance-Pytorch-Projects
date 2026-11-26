@@ -29,3 +29,12 @@ A complete multi-video learning playlist covering the implementation and concept
 <a href="https://www.youtube.com/playlist?list=PLOW87P7MQGbE"><img src="https://img.youtube.com/vi/pDOXZWq-bjg/hqdefault.jpg" alt="Stable Diffusion from Scratch with PyTorch video thumbnail" width="480"></a>
 
 [Watch the complete Stable Diffusion playlist](https://www.youtube.com/playlist?list=PLOW87P7MQGbE) · [Explore the project folder](https://github.com/AliHassanAbbas/Advance-Pytorch-Projects/tree/main/3%20Stable%20Diffusion%20from%20Scratch)
+
+
+## PaliGemma from Scratch — Multimodal Vision-Language Model
+
+A coding-focused PyTorch video series exploring PaliGemma and multimodal vision-language modelling, connecting image understanding with language capabilities.
+
+<a href="https://www.youtube.com/playlist?list=PLKIurYhZ0z8o"><img src="https://img.youtube.com/vi/3tIQ9wJwy8Y/hqdefault.jpg" alt="Coding Multimodal Vision PaliGemma from Scratch video thumbnail" width="480"></a>
+
+[Watch the complete PaliGemma playlist]( https://www.youtube.com/playlist?list=PLKIurYhZ0z8o ) · [Explore the PaliGemma project repository](https://github.com/AliHassanAbbas/PaliGemma-training-inference-pytorch)
