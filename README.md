@@ -111,3 +111,8 @@ A comparative notebook study of BatchNorm, LayerNorm, InstanceNorm, GroupNorm, a
 - Normalization methods: BatchNorm, LayerNorm, InstanceNorm, GroupNorm, RMSNorm; understanding their axes, statistics, and use cases
 - Training workflows: datasets and dataloaders, augmentation, loss functions, optimizers, validation, checkpoints, and TensorBoard
 - Computer vision and NLP fundamentals, architecture implementation, and from-scratch educational experiments
+
+
+## GPT-2 from Scratch — project scaffold
+
+The [GPT-2 from Scratch folder](https://github.com/AliHassanAbbas/Advance-Pytorch-Projects/tree/main/8%20GPT%202%20from%20Scratch) now has an introductory README describing the intended learning scope. **The implementation notebook/source code has not yet been uploaded**, so implementation-specific architecture details and technical skills are not claimed for this folder yet. The related [large-language-model video series](https://www.youtube.com/playlist?list=PLEq4YdBohZDQ) is available on YouTube.
