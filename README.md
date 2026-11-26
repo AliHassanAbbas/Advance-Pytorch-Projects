@@ -94,3 +94,20 @@ A custom encoder–decoder CNN for binary segmentation trained and evaluated on 
 
 
 [Read the U-Net README](https://github.com/AliHassanAbbas/Advance-Pytorch-Projects/blob/main/9%20Unet%20from%20scratch%20in%20pytorch/README.md) · [Open the notebook](https://github.com/AliHassanAbbas/Advance-Pytorch-Projects/blob/main/9%20Unet%20from%20scratch%20in%20pytorch/UNET_from_scrtch_in_pytorch%20(2).ipynb)
+
+
+## Normalization Methods in Deep Learning — PyTorch
+
+A comparative notebook study of BatchNorm, LayerNorm, InstanceNorm, GroupNorm, and RMSNorm, including normalization axes, tensor-shape reasoning, learnable affine parameters, epsilon, custom PyTorch modules, and built-in implementations. Covers normalization choices in CNNs, image-generation models, and Transformer/LLM architectures.
+
+
+[Read the normalization methods README](https://github.com/AliHassanAbbas/All-Normalizations-Explained-Batch-Layer-Instance-Group-RMS-PyTorch-/blob/main/README.md) · [Open the notebook](https://github.com/AliHassanAbbas/All-Normalizations-Explained-Batch-Layer-Instance-Group-RMS-PyTorch-/blob/main/All_Normalizations_Explained_Batch,_Layer,_Instance,_Group,_RMS_(+_PyTorch).ipynb)
+
+
+## Technical Expertise Demonstrated
+
+- PyTorch model development: custom layers and modules, tensor operations, broadcasting, reduction dimensions, and parameter initialization
+- Deep learning architectures: CNNs, encoder–decoder networks, Transformers, language models, and generative models
+- Normalization methods: BatchNorm, LayerNorm, InstanceNorm, GroupNorm, RMSNorm; understanding their axes, statistics, and use cases
+- Training workflows: datasets and dataloaders, augmentation, loss functions, optimizers, validation, checkpoints, and TensorBoard
+- Computer vision and NLP fundamentals, architecture implementation, and from-scratch educational experiments
