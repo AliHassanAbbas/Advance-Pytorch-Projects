@@ -86,3 +86,11 @@ A notebook implementing core LLaMA 2 inference components: Transformer blocks, R
 
 
 [Read the detailed README](https://github.com/AliHassanAbbas/Advance-Pytorch-Projects/blob/main/5%20LLaMA%202%20from%20scratch/README.md) · [Open notebook](https://github.com/AliHassanAbbas/Advance-Pytorch-Projects/blob/main/5%20LLaMA%202%20from%20scratch/Coding_LLaMA_2_from_scratch.ipynb)
+
+
+## U-Net from Scratch in PyTorch — Biomedical Image Segmentation
+
+A custom encoder–decoder CNN for binary segmentation trained and evaluated on TIFF volume data. The notebook implements convolution–BatchNorm–ReLU blocks, max-pooling, a 1024-channel bottleneck, transposed-convolution upsampling, concatenative skip connections, and a 1×1 output projection. The pipeline includes TIFF frame splitting, custom Dataset/DataLoader, grayscale normalization, paired random flips, BCEWithLogitsLoss, Adam, 100-epoch training, validation, checkpoint resume/save, TensorBoard visualization, and held-out test predictions. The notebook reports a test average loss of approximately 0.2504 from its saved run (not a benchmark claim).
+
+
+[Read the U-Net README](https://github.com/AliHassanAbbas/Advance-Pytorch-Projects/blob/main/9%20Unet%20from%20scratch%20in%20pytorch/README.md) · [Open the notebook](https://github.com/AliHassanAbbas/Advance-Pytorch-Projects/blob/main/9%20Unet%20from%20scratch%20in%20pytorch/UNET_from_scrtch_in_pytorch%20(2).ipynb)
