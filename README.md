@@ -6,7 +6,7 @@ A collection of notebook-based studies of modern deep-learning architectures and
 - Transformer from scratch
 - Vision Transformer (ViT)
 - BERT
-- Stable Diffusion
+- Stable Diffusion from scratch with PyTorch (video playlist linked below)
 - Swin Transformer
 - LLaMA 2
 - PaliGemma and multimodal vision-language modelling
@@ -21,3 +21,11 @@ Educational implementations and architecture studies. The exact implementation d
 
 ## Author
 Ali Hassan Abbas | [GitHub](https://github.com/AliHassanAbbas)
+
+## Stable Diffusion from Scratch — PyTorch video series
+
+A complete multi-video learning playlist covering the implementation and concepts behind Stable Diffusion with PyTorch.
+
+<a href="https://www.youtube.com/playlist?list=PLOW87P7MQGbE"><img src="https://img.youtube.com/vi/pDOXZWq-bjg/hqdefault.jpg" alt="Stable Diffusion from Scratch with PyTorch video thumbnail" width="480"></a>
+
+[Watch the complete Stable Diffusion playlist](https://www.youtube.com/playlist?list=PLOW87P7MQGbE) · [Explore the project folder](https://github.com/AliHassanAbbas/Advance-Pytorch-Projects/tree/main/3%20Stable%20Diffusion%20from%20Scratch)
